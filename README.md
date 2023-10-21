@@ -1,6 +1,6 @@
 # TKO-Titanic-Kungfubot-Offensive
 Files for the Cartoon Network fighting game "TKO: Titanic Kungfubot Offensive"
-Run the game using the standalone version of Adobe Flash Player.
+Run the game using the standalone version of Adobe Flash Player OR use the SWF Player in the Ruffle emulator browser extension.
 
 GameContainer.swf is the launcher for the game. It contains assets for the main menu, server code, and the cartoon network achievement system.
 
